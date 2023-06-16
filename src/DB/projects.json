@@ -2354,4 +2354,20 @@
       }
     ]
   }
+  {
+      "github_username": "Prashu-01",  
+      "Social_media": {
+        "gitHub": "https://github.com/Prashu-01",
+        "LinkedIn": "https://www.linkedin.com/in/prashu-verma-517890227/",
+        "Instagram": "https://instagram.com/prashu_v1202?igshid=MzNlNGNkZWQ4Mg=="
+      },
+      "Projects": [
+        {
+          "link": "https://github.com/Prashu-01/WeatherApp",
+          "title": "Weather Website",
+          "description": "A simple weather app that can show realtime weather. Simply write your city name and search it. Clean and user friendly UI.",
+          "tech": ["HTML", "CSS","JavaScript"]
+        }
+      ]
+  }
 ]
